@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\bin\Debug\ListMaker.exe.config
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\bin\Debug\ListMaker.exe
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\bin\Debug\ListMaker.pdb
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\obj\Debug\ListMaker.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\obj\Debug\ListMaker.exe
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\obj\Debug\ListMaker.pdb
+C:\Users\Kirill\source\repos\ListMaker\ListMaker\obj\Debug\ListMaker.csprojResolveAssemblyReference.cache
